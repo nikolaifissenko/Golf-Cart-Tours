@@ -1,6 +1,6 @@
 # Golf Cart Tours Roma — Testi e Note
 
-Ultimo aggiornamento: 2026-07-08
+Ultimo aggiornamento: 2026-07-09
 
 ## Contesto
 
@@ -12,6 +12,19 @@ Rolling Rome, My Best Tour, Xploring Rome Golf Cart, Turtle Tour Rome, Wheel Tou
 Biga Tours, Experientia, Alpha Tours (host di un'esperienza golf cart su Airbnb).
 **Da verificare con il cliente prima di procedere**: nome esatto dell'azienda, sito
 web, e URL degli annunci esistenti (se esistono).
+
+## Nota: Airbnb Experiences vs GetYourGuide (host azienda vs persona)
+
+Airbnb Experiences è più complicato da impostare rispetto a GetYourGuide perché il
+sistema è pensato principalmente per un host **persona fisica**, non per
+un'azienda: chiede verifica d'identità individuale, foto/profilo personale della
+guida e tende a mostrare l'esperienza come "condotta da" una persona, non da un
+brand. "Best Way" è un'azienda, quindi va deciso chi sarà la persona che compare
+come host su Airbnb (es. il titolare o una guida fissa) — su GetYourGuide invece
+si può operare più facilmente come operatore/azienda senza questo vincolo.
+
+**Da chiarire con il cliente**: chi sarà l'host persona fisica su Airbnb
+Experiences prima di procedere con la creazione dell'annuncio.
 
 ## Descrizione lunga (878 caratteri)
 
@@ -51,3 +64,5 @@ Opzioni (scegliere una, tutte entro i 100 caratteri):
 - [ ] Preparare lista separata di curiosità come bullet point
 - [ ] Verificare limiti di caratteri specifici per GetYourGuide vs Airbnb (diversi
       campi hanno limiti diversi)
+- [ ] Decidere con il cliente chi sarà l'host persona fisica su Airbnb Experiences
+      (l'account non può essere solo "Best Way" come azienda)
