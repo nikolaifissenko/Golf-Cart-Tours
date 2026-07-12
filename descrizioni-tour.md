@@ -86,6 +86,53 @@ Opzioni (scegliere una, tutte entro i 100 caratteri):
 3. (95) "Scopri Roma in golf cart: Colosseo, Pantheon e Trevi con curiosità
    raccontate da guide esperte." — non ancora scelta definitivamente.
 
+## Requisiti foto GetYourGuide
+
+- Risoluzione minima: **1280×960px** (soglia rigida — es. immagine da 1200px di
+  larghezza è stata rifiutata); ideale 2048×1536px o superiore
+- Formato orizzontale/landscape, aspect ratio **4:3**
+- Solo foto a colori, niente watermark/testo/loghi sovrapposti
+- Almeno 4 foto pubblicate
+- Le immagini generate/modificate con Gemini (o altra IA) vengono accettate da
+  GYG **di norma** (non è un blocco per contenuto IA) — il rifiuto riscontrato
+  era solo per risoluzione insufficiente (1200px < 1280px minimi). Se un'IA
+  genera un file sotto soglia, basta un ridimensionamento tradizionale
+  (non-IA) a larghezza ≥1280px (consigliato ≥1600px) prima di caricare.
+
+## Prelievo
+
+Il prelievo avviene in un punto a scelta del cliente all'interno del centro
+storico di Roma (non un punto fisso). Testo per il campo "Descrivi il
+prelievo" già pronto più sopra nella conversazione con l'assistente — il
+cliente comunica l'indirizzo al momento della prenotazione, la guida conferma
+punto/orario esatti.
+
+**Da chiarire con Best Way**: limiti geografici precisi del "centro storico"
+per il prelievo gratuito (es. dentro le Mura Aureliane?) e tempistica minima
+per comunicare l'indirizzo.
+
+## Disponibilità e prezzi
+
+**Fasce orarie** (tour di 3 ore):
+- Mattina: partenza alle 9:00 (fino alle 12:00) oppure alle 10:00 (fino alle 13:00)
+- Pomeriggio: orario a scelta del cliente — **orari specifici da definire**
+- Sera: orario a scelta del cliente — **orari specifici da definire**
+
+Su GetYourGuide impostare come "Fasce orarie" (non "Orari di apertura"), dato
+che è un tour guidato con orario di partenza definito, non un accesso libero
+continuo.
+
+**Prezzi** — impostare come "Prezzo per gruppo/veicolo" (non "a persona"),
+confermato dal cliente:
+
+| Persone | Prezzo |
+|---|---|
+| 1-3 | €350 |
+| 4 | €450 |
+| 5 | €550 |
+| 6 | €650 |
+| 7 | €750 |
+
 ## Da fare la prossima sessione
 
 - [ ] Confermare quale descrizione breve (100 caratteri) usare
@@ -101,3 +148,6 @@ Opzioni (scegliere una, tutte entro i 100 caratteri):
       "Informazioni principali", "Località", "Parole chiave" e "Inclusioni"
       generate automaticamente, poi caricare foto e creare le opzioni di
       prenotazione (prezzi/disponibilità) manualmente
+- [ ] Definire orari di partenza specifici per pomeriggio e sera (mattina già
+      definita: 9:00 o 10:00)
+- [ ] Confermare limiti geografici del prelievo gratuito nel centro storico
