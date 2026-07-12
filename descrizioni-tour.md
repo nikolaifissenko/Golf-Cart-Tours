@@ -66,3 +66,8 @@ Opzioni (scegliere una, tutte entro i 100 caratteri):
       campi hanno limiti diversi)
 - [ ] Decidere con il cliente chi sarà l'host persona fisica su Airbnb Experiences
       (l'account non può essere solo "Best Way" come azienda)
+
+## Sessione chiusa (2026-07-12)
+
+Nessun altro punto aperto oltre alla lista "Da fare la prossima sessione" sopra.
+Riprendere da lì al prossimo avvio.
