@@ -133,6 +133,25 @@ confermato dal cliente:
 | 6 | €650 |
 | 7 | €750 |
 
+**Aggiornamento (2026-07-12)**: Best Way vuole aggiungere anche un'opzione
+"sharing" oltre al privato, per chiedere prezzi più alti sul privato. Il
+servizio reale però è sempre esclusivo per il gruppo che prenota (il golf
+cart non viene mai condiviso con sconosciuti) — "sharing" sarebbe quindi solo
+un'etichetta di prezzo più basso a persona per intercettare ricerche
+economiche, non un cambio operativo. Su GYG andrebbe impostato come due
+Opzioni dello stesso prodotto (stessa pagina/contenuto/foto, scelta
+dell'opzione in fase di prenotazione).
+
+**Attenzione**: evitare nella descrizione dell'opzione "sharing" frasi tipo
+"potresti essere raggruppato con altri viaggiatori" se questo non accade mai
+nella realtà — usare invece una dicitura tipo "Tour condiviso — prezzo a
+persona" senza promettere condivisione effettiva, per restare accurati.
+
+**Ancora da avere da Best Way**:
+- Prezzo a persona per l'opzione "sharing"
+- Se il prezzo "privato" resta €350 base (+€100/persona) o viene alzato ora
+  che esiste un'opzione sharing più economica accanto
+
 ## Da fare la prossima sessione
 
 - [ ] Confermare quale descrizione breve (100 caratteri) usare
@@ -151,3 +170,7 @@ confermato dal cliente:
 - [ ] Definire orari di partenza specifici per pomeriggio e sera (mattina già
       definita: 9:00 o 10:00)
 - [ ] Confermare limiti geografici del prelievo gratuito nel centro storico
+- [ ] Ottenere da Best Way: prezzo a persona opzione "sharing" ed eventuale
+      nuovo prezzo "privato"
+- [ ] Impostare le due Opzioni (sharing/privato) nello step "Opzioni" di GYG
+      una volta ricevuti i prezzi
