@@ -1,6 +1,30 @@
 # Golf Cart Tours Roma — Testi e Note
 
-Ultimo aggiornamento: 2026-07-08
+Ultimo aggiornamento: 2026-07-13
+
+## Stato: prodotto rifiutato da GetYourGuide (2026-07-13)
+
+Il prodotto creato ieri è stato rifiutato da GetYourGuide con questo messaggio
+generico, senza motivazione specifica:
+
+> Questo prodotto è stato rifiutato da GetYourGuide. Per eventuali domande,
+> contatta il nostro team di assistenza ai partner. Non apportare modifiche a
+> questo prodotto, poiché non verranno controllate.
+
+Il messaggio indica che l'annuncio rifiutato è "chiuso": eventuali modifiche a
+quel prodotto specifico non verranno più riviste da GYG. Prossimi passi:
+
+- [ ] Contattare l'assistenza partner GetYourGuide per chiedere il motivo
+      esatto del rifiuto (probabili cause note: verifica identità/documenti
+      azienda non completata — vedi nota "Da verificare con il cliente" sotto;
+      permessi/licenza per golf cart nel centro storico di Roma; foto mancanti
+      o non conformi; categoria attività errata)
+- [ ] Non modificare il prodotto rifiutato: creare un nuovo annuncio da zero
+      una volta chiarito il motivo, riutilizzando i testi qui sotto dopo le
+      correzioni necessarie
+- [ ] Verificare che l'azienda cliente abbia completato la verifica identità
+      partner su GetYourGuide (dati aziendali, P.IVA, documenti) prima di
+      ripresentare
 
 ## Contesto
 
