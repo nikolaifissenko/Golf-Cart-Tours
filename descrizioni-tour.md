@@ -191,6 +191,12 @@ in fase di prenotazione per coordinare il ritiro.
   base a convenienza ed esigenze — da confermare quale/i orario/i attivare
   prima di pubblicare
 
+### Servizi extra
+
+Nessun servizio extra a pagamento per ora. I suggerimenti su dove mangiare e
+bere restano un consiglio gratuito dato dalla guida durante il tour, incluso
+nell'esperienza base (non venduto come extra separato).
+
 ### Da fare prima di pubblicare questo prodotto
 
 - [ ] Aspettare conferma esplicita del cliente prima di sottomettere su
