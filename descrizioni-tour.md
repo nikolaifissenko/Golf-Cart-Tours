@@ -158,12 +158,15 @@ eccezione degli animali di servizio come previsto dalla legge.
 
 ### Descrivi il prelievo (facoltativo)
 
-Il punto di ritrovo si trova nel centro storico di Roma [indirizzo esatto da
-confermare, deciso dal cliente]. Vi consigliamo di presentarvi 10 minuti prima
-dell'orario di inizio del tour. La nostra guida vi aspetterà con il golf cart
-elettrico nel punto indicato al momento della prenotazione. In caso di
-necessità, sarete contattati al numero di cellulare fornito in fase di
-prenotazione.
+⚠️ Da confermare: il cliente sta valutando se offrire il prelievo direttamente
+in hotel, in alternativa a un punto d'incontro fisso — decisione non ancora
+definitiva.
+
+Il ritiro avviene nel centro storico di Roma, nel punto concordato al momento
+della prenotazione [indirizzo esatto/eventuale pickup in hotel da confermare
+col cliente]. Vi consigliamo di essere pronti 10 minuti prima dell'orario di
+inizio del tour. La nostra guida vi contatterà al numero di cellulare fornito
+in fase di prenotazione per coordinare il ritiro.
 
 ### Opzione prodotto (necessaria per attivare le prenotazioni)
 
@@ -173,8 +176,8 @@ prenotazione.
   a 7 partecipanti
 - Durata: 2 ore
 - Lingue guida: italiano, inglese, francese, spagnolo, arabo, russo
-- Modalità di inizio: punto d'incontro (indirizzo esatto da confermare col
-  cliente) — pickup in hotel non ancora deciso
+- Modalità di inizio: punto d'incontro nel centro storico oppure pickup in
+  hotel — il cliente sta valutando quale opzione offrire, ancora da decidere
 - Prezzo: da definire col cliente
 
 ### Da fare prima di pubblicare questo prodotto
