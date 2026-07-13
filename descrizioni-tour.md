@@ -2,6 +2,15 @@
 
 Ultimo aggiornamento: 2026-07-13
 
+## Credenziali account partner
+
+⚠️ Salvate qui su richiesta esplicita del cliente, nonostante l'avviso sul
+rischio di tenere password in chiaro nella cronologia Git.
+
+- **GetYourGuide** — username: `bestwayroma@gmail.com` — password: `pass.GolfKart123!`
+- **Viator** — username: `bestwayroma@gmail.com` — password: `BestWayItalia2024!`
+- **TripAdvisor** — username: `bestwayroma@gmail.com` — password: `BestWayItalia2024!`
+
 ## Stato: prodotto rifiutato da GetYourGuide (2026-07-13)
 
 Il prodotto creato ieri è stato rifiutato da GetYourGuide con questo messaggio
