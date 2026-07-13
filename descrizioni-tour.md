@@ -180,6 +180,17 @@ in fase di prenotazione per coordinare il ritiro.
   hotel — il cliente sta valutando quale opzione offrire, ancora da decidere
 - Prezzo: da definire col cliente
 
+### Disponibilità e prezzi
+
+- Tipo disponibilità: Fasce orarie (partenze a orari fissi, coerente con un
+  tour serale guidato — non "Orari di apertura", adatto ad attrazioni ad
+  accesso libero)
+- Tipo prezzo: Prezzo per gruppo/veicolo (fisso per il golf cart, fino a 7
+  persone — già deciso sopra)
+- Orario di partenza: il cliente valuta tra le 20:00, le 21:00 o le 22:00, in
+  base a convenienza ed esigenze — da confermare quale/i orario/i attivare
+  prima di pubblicare
+
 ### Da fare prima di pubblicare questo prodotto
 
 - [ ] Aspettare conferma esplicita del cliente prima di sottomettere su
