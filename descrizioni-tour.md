@@ -2,6 +2,24 @@
 
 Ultimo aggiornamento: 2026-07-13
 
+## Riepilogo sessione 2026-07-13
+
+- Registrato il rifiuto generico di GetYourGuide sul primo prodotto (Tour
+  diurno) e contatto già effettuato con l'assistenza partner (in attesa di
+  risposta).
+- Salvate le credenziali GYG/Viator/TripAdvisor su richiesta esplicita del
+  cliente (vedi avviso di sicurezza sotto).
+- Preparata bozza completa del secondo prodotto (Tour Roma di Notte): titolo,
+  descrizione lunga/breve, esclusioni, policy animali, descrizione prelievo,
+  opzione prodotto, disponibilità/prezzi, punti salienti. Tutti i testi sono
+  pronti da copiare su GYG, ma il prodotto resta **IN ATTESA** — non
+  sottometterlo finché il cliente non conferma e finché non si sa l'esito del
+  rifiuto del primo prodotto.
+- Ancora aperti (vedi checklist a fondo sezione Prodotto 2): prezzo
+  dell'opzione, indirizzo esatto del punto d'incontro (o pickup in hotel),
+  orario di partenza definitivo tra 20:00/21:00/22:00, conferma finale di
+  esclusioni e policy animali col cliente.
+
 ## Credenziali account partner
 
 ⚠️ Salvate qui su richiesta esplicita del cliente, nonostante l'avviso sul
