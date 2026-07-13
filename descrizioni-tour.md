@@ -14,11 +14,14 @@ generico, senza motivazione specifica:
 Il messaggio indica che l'annuncio rifiutato è "chiuso": eventuali modifiche a
 quel prodotto specifico non verranno più riviste da GYG. Prossimi passi:
 
-- [ ] Contattare l'assistenza partner GetYourGuide per chiedere il motivo
-      esatto del rifiuto (probabili cause note: verifica identità/documenti
-      azienda non completata — vedi nota "Da verificare con il cliente" sotto;
+- [x] Contattare l'assistenza partner GetYourGuide per chiedere il motivo
+      esatto del rifiuto — fatto il 2026-07-13, in attesa di risposta
+      (probabili cause note: verifica identità/documenti azienda non
+      completata — vedi nota "Da verificare con il cliente" sotto;
       permessi/licenza per golf cart nel centro storico di Roma; foto mancanti
       o non conformi; categoria attività errata)
+- [ ] Quando arriva la risposta di GYG, aggiornare questo file col motivo
+      reale e correggere i testi/dati di conseguenza
 - [ ] Non modificare il prodotto rifiutato: creare un nuovo annuncio da zero
       una volta chiarito il motivo, riutilizzando i testi qui sotto dopo le
       correzioni necessarie
