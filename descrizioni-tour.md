@@ -156,6 +156,15 @@ non accompagnati da un adulto; persone in evidente stato di ebbrezza.
 Non è consentito portare animali domestici a bordo del golf cart, ad
 eccezione degli animali di servizio come previsto dalla legge.
 
+### Descrivi il prelievo (facoltativo)
+
+Il punto di ritrovo si trova nel centro storico di Roma [indirizzo esatto da
+confermare, deciso dal cliente]. Vi consigliamo di presentarvi 10 minuti prima
+dell'orario di inizio del tour. La nostra guida vi aspetterà con il golf cart
+elettrico nel punto indicato al momento della prenotazione. In caso di
+necessità, sarete contattati al numero di cellulare fornito in fase di
+prenotazione.
+
 ### Opzione prodotto (necessaria per attivare le prenotazioni)
 
 **Nome opzione:** Tour privato in golf cart di notte (2 ore) — fino a 7 persone
