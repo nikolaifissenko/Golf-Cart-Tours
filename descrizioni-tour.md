@@ -87,3 +87,70 @@ Opzioni (scegliere una, tutte entro i 100 caratteri):
 - [ ] Preparare lista separata di curiosità come bullet point
 - [ ] Verificare limiti di caratteri specifici per GetYourGuide vs Airbnb (diversi
       campi hanno limiti diversi)
+
+---
+
+## Prodotto 2: Tour Roma di Notte in Golf Cart — IN ATTESA, NON PUBBLICARE ANCORA
+
+Su indicazione del cliente questo secondo prodotto è in preparazione ma resta in
+attesa: non va sottomesso su GetYourGuide/Viator/TripAdvisor finché non arriva
+conferma esplicita di procedere (anche in considerazione del rifiuto ancora
+irrisolto del primo prodotto, vedi sezione sopra).
+
+Fonte testi/dati: <https://bestwayitalia.com/tours/scopri-roma-di-notte/>
+
+### Dati estratti dal sito
+
+- Titolo: "Scopri Roma di notte – Golf Cart"
+- Durata: 2 ore
+- Punto di ritrovo: centro di Roma, location comoda (indirizzo esatto da confermare)
+- Attrazioni: Piazza di Spagna e Scalinata di Trinità dei Monti, Fontana di Trevi,
+  Pantheon, Piazza del Popolo (Obelisco Flaminio), Fori Imperiali (Cesare, Augusto,
+  Traiano), Piazza Venezia e Altare della Patria, Ghetto Ebraico, Via del Corso,
+  Gianicolo (punto panoramico), angoli nascosti e curiosità locali
+- Capienza: 1-7 persone, tariffe differenziate (da confermare)
+
+### Descrizione lunga (bozza, 937 caratteri — verificare limite prima di usare)
+
+Sali a bordo del nostro golf cart elettrico e scopri Roma di notte, quando i suoi
+monumenti si accendono e la città rivela un fascino unico. Silenzioso e agile, si
+muove tra vicoli e piazze dove i grandi bus non arrivano: un'esperienza romantica
+e senza stress, perfetta per famiglie, coppie e chi cerca un punto di vista
+diverso sulla Città Eterna.
+
+Con una guida esperta attraverserai i luoghi simbolo di Roma: Piazza di Spagna e
+la Scalinata di Trinità dei Monti, Fontana di Trevi, Pantheon, Piazza del
+Popolo, i Fori Imperiali, Piazza Venezia e l'Altare della Patria, il Ghetto
+Ebraico e Via del Corso, fino al Gianicolo per una vista panoramica mozzafiato
+sulla città illuminata.
+
+Il vero valore del tour sono le curiosità raccontate dalla guida: aneddoti,
+leggende e segreti nascosti tra le pieghe della storia di Roma.
+
+Un tour di 2 ore, su misura e flessibile, ideale per vivere Roma di notte in
+modo autentico e indimenticabile.
+
+### Descrizione breve (100 caratteri, campo "Descrivi la tua attività")
+
+Opzioni (nessuna scelta definitiva ancora):
+
+1. (84) "Tour serale in golf cart a Roma: monumenti illuminati e curiosità con
+   guide esperte."
+2. (86) "Scopri Roma di notte in golf cart: Trevi, Pantheon e Fori Imperiali con
+   guide esperte."
+3. (79) "Tour in golf cart di notte a Roma tra monumenti illuminati, storia e
+   curiosità."
+
+### Da fare prima di pubblicare questo prodotto
+
+- [ ] Aspettare conferma esplicita del cliente prima di sottomettere su
+      qualsiasi piattaforma
+- [ ] Confermare indirizzo esatto del punto di ritrovo
+- [ ] Confermare prezzi per fascia (1-7 persone)
+- [ ] Accorciare la descrizione lunga se il limite caratteri della piattaforma
+      è inferiore a 937
+- [ ] Scegliere descrizione breve definitiva
+- [ ] Preparare versione inglese
+- [ ] Valutare se ha senso ripresentare dopo aver risolto il rifiuto del primo
+      prodotto (Tour diurno), per capire se il problema era specifico
+      dell'annuncio o dell'account partner in generale
