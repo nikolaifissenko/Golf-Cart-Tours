@@ -141,12 +141,41 @@ Opzioni (nessuna scelta definitiva ancora):
 3. (79) "Tour in golf cart di notte a Roma tra monumenti illuminati, storia e
    curiosità."
 
+### Per chi non è adatta questa attività (facoltativo)
+
+⚠️ Bozza, da confermare col cliente/operatore prima di pubblicare (implicazioni
+di sicurezza/responsabilità):
+
+Donne in gravidanza (a causa delle vibrazioni e dei sobbalzi su strade
+acciottolate); persone con problemi di schiena, collo o mobilità ridotta che
+non sono in grado di salire e scendere autonomamente dal golf cart; bambini
+non accompagnati da un adulto; persone in evidente stato di ebbrezza.
+
+### Policy animali domestici
+
+Non è consentito portare animali domestici a bordo del golf cart, ad
+eccezione degli animali di servizio come previsto dalla legge.
+
+### Opzione prodotto (necessaria per attivare le prenotazioni)
+
+**Nome opzione:** Tour privato in golf cart di notte (2 ore) — fino a 7 persone
+
+- Tipo: privato, gruppo chiuso, prezzo fisso per veicolo (non a persona), fino
+  a 7 partecipanti
+- Durata: 2 ore
+- Lingue guida: italiano, inglese, francese, spagnolo, arabo, russo
+- Modalità di inizio: punto d'incontro (indirizzo esatto da confermare col
+  cliente) — pickup in hotel non ancora deciso
+- Prezzo: da definire col cliente
+
 ### Da fare prima di pubblicare questo prodotto
 
 - [ ] Aspettare conferma esplicita del cliente prima di sottomettere su
       qualsiasi piattaforma
 - [ ] Confermare indirizzo esatto del punto di ritrovo
-- [ ] Confermare prezzi per fascia (1-7 persone)
+- [ ] Confermare prezzo per l'opzione (fisso per veicolo, 1-7 persone)
+- [ ] Confermare col cliente il testo "per chi non è adatta" e la policy
+      animali prima della pubblicazione definitiva
 - [ ] Accorciare la descrizione lunga se il limite caratteri della piattaforma
       è inferiore a 937
 - [ ] Scegliere descrizione breve definitiva
