@@ -193,9 +193,20 @@ in fase di prenotazione per coordinare il ritiro.
 
 ### Servizi extra
 
-Nessun servizio extra a pagamento per ora. I suggerimenti su dove mangiare e
-bere restano un consiglio gratuito dato dalla guida durante il tour, incluso
-nell'esperienza base (non venduto come extra separato).
+Nessuno. I suggerimenti su dove mangiare e bere (e altre curiosità locali)
+restano gratuiti, dati dalla guida durante il tour — vedi sezione "Punti
+salienti / cosa è incluso" qui sotto, non vanno inseriti nel campo "servizio
+extra" di GYG (che richiede un prezzo per un add-on a pagamento).
+
+### Punti salienti / cosa è incluso
+
+Testo per il campo highlights/incluso, da aggiungere a quanto già presente
+nella descrizione lunga:
+
+Durante il tour la guida offre anche consigli su dove mangiare e bere nei
+paraggi delle tappe, oltre a curiosità e indicazioni pratiche su misura in
+base agli interessi del gruppo (storia, aneddoti, foto migliori, ecc.) — tutto
+incluso nel prezzo del tour, senza costi aggiuntivi.
 
 ### Da fare prima di pubblicare questo prodotto
 
