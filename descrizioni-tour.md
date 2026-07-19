@@ -19,6 +19,9 @@ revisori. Riscritta la descrizione lunga con dettagli operativi concreti (durata
 capienza, punto d'incontro flessibile) per renderla più specifica e meno
 standardizzata prima di ripresentarla.
 
+**2026-07-19 — Descrizione lunga ripresentata su GetYourGuide** con il testo
+rivisto qui sotto. In attesa di esito revisione.
+
 ## Dati operativi confermati
 
 - **Durata**: 3 ore
@@ -73,5 +76,5 @@ Opzioni (scegliere una, tutte entro i 100 caratteri):
 - [ ] Preparare lista separata di curiosità come bullet point
 - [ ] Verificare limiti di caratteri specifici per GetYourGuide vs Airbnb (diversi
       campi hanno limiti diversi)
-- [ ] Ripresentare l'annuncio su GetYourGuide con il testo rivisto e, se possibile,
-      chiedere al supporto GYG il motivo esatto del primo rifiuto
+- [ ] Controllare esito della revisione GetYourGuide dopo la ripresentazione del
+      2026-07-19
