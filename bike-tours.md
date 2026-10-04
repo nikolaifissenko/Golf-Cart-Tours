@@ -6,7 +6,7 @@ Ultimo aggiornamento: 2026-10-04
 
 Nuovo fronte accanto al golf cart: collaborazione con agenzie che fanno tour in bici
 (e e-bike) a Roma. Primi contatti avviati con **Bici & Baci** e **Regina Bikes**.
-Sabato 3 ottobre 2026: fatto un tour con loro come partecipante — esperienza molto
+Sabato 3 ottobre 2026: seguito un tour di Bici & Baci in affiancamento — esperienza molto
 positiva.
 
 **Obiettivo (deciso 2026-10-04): guidare tour per loro.**
@@ -20,8 +20,13 @@ positiva.
   - Via del Viminale 5 (davanti a Termini)
   - Vicolo del Bottino 8 (accanto a Metro Spagna)
   - Via Cavour 302 (vicino ai Fori Imperiali)
-- Referente: _da compilare_ (nome, ruolo, telefono, email)
-- Stato contatto: _da compilare_
+- Referente: **Daniela** — info@bicibaci.com · +39 06 4828443 (sede Viminale)
+- Stato contatto:
+  - 14 set: candidatura con CV inviata
+  - 24 set: colloquio conoscitivo in Via del Viminale 5
+  - 3 ott: seguito il tour in bici del centro (partenza 09:45, Via Cavour 302)
+  - 4 ott: bozza di risposta pronta — disponibile a iniziare questa settimana,
+    chiesto come procedere (contratto, disponibilità)
 
 ### Regina Bikes
 
