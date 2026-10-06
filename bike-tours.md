@@ -1,6 +1,6 @@
 # Bike Tours Roma — Contatti agenzie e note
 
-Ultimo aggiornamento: 2026-10-04
+Ultimo aggiornamento: 2026-10-06
 
 ## Contesto
 
@@ -27,6 +27,8 @@ positiva.
   - 3 ott: seguito il tour in bici del centro (partenza 09:45, Via Cavour 302)
   - 4 ott: bozza di risposta pronta — disponibile a iniziare questa settimana,
     chiesto come procedere (contratto, disponibilità)
+- Percorsi dei 3 tour in bici (Highlights, Appia, Panoramic) con mappe:
+  vedi `bicibaci-percorsi.md` e `mappe/`
 
 ### Regina Bikes
 
