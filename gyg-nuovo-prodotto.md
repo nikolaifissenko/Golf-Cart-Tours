@@ -1,57 +1,49 @@
-# GYG — Nuovo prodotto: tour highlights in golf cart (riformulato)
+# GYG — Nuovo prodotto golf cart (inviato)
 
 Ultimo aggiornamento: 2026-10-09
+Stato: **compilato su GYG dal 2026-10-09, in attesa di revisione**
 
-Sostituisce il prodotto rifiutato 1507732 ("Rome: Private Sightseeing Tour by Golf Cart").
-Il percorso resta un **tour highlights**: niente tema. La differenza va costruita con le
-altre leve che GYG riconosce nella guida "Submitting Unique Activities".
+Sostituisce il prodotto rifiutato **1507732** ("Rome: Private Sightseeing Tour by Golf Cart",
+rif. T-1052543). Motivi del rifiuto: (1) troppo simile a esperienze esistenti; (2) fuori
+ambito per luogo/tipo di attività.
 
-## Il problema da risolvere
+## Strategia
 
-"Monumenti di Roma in golf cart" esiste già in tutte le varianti di orario:
-- giorno: decine di prodotti;
-- sera/notte con aperitivo: Musement, Winedering, Expedia;
-- alba con colazione: "Rome Sunrise & Breakfast by Golf Cart" su Headout e Lokalee.
+- Resta un **tour highlights** (scelta del cliente), formato **sightseeing con autista,
+  senza guida**.
+- Differenziazione (leve della guida GYG "Submitting Unique Activities"): **pubblico poco
+  servito**, cioè anziani, mobilità ridotta, famiglie con passeggino ("Easy-Access"), più il
+  formato **privato con pickup ovunque**.
+- Alternative già coperte dai concorrenti (non usarle come leva): sera/aperitivo
+  (Musement, Winedering, Expedia), alba con colazione (Headout, Lokalee).
+- **Non risolto dal testo**: il motivo "fuori ambito". Se ritorna, serve un ricorso con la
+  documentazione di conformità (vedi `normativa-e-controlli.md`).
 
-Cambiare orario o testo non basta. Restano due leve che i concorrenti coprono poco.
+## Da verificare / fornire dal cliente
 
-## Strategia: due leve, nessuna sul percorso
-
-| Leva GYG | Applicazione |
-|---|---|
-| **Pubblico poco servito** | Tour pensato per chi non può o non vuole camminare: anziani, mobilità ridotta, famiglie con passeggino. Ogni sosta è entro ~100 m dal cart, si scende solo se si vuole |
-| **Lingua** | Un prodotto per lingua, con autista che parla la lingua: ES / FR / RU (meno coperte di EN/IT nel golf cart) |
-
-Formato: **privato**, pickup e drop-off a qualsiasi indirizzo del centro.
-
-**Cosa non risolve**: il motivo "fuori ambito: luogo o tipo di attività". Se GYG non accetta
-più golf cart a Roma, serve il ricorso con i documenti di conformità
-(vedi `normativa-e-controlli.md`).
-
-## Da verificare col cliente prima di caricarlo
-
-1. **Sightseeing, non visita guidata**: il prodotto è un tour panoramico con autista, senza
-   guida. Nel testo NON promettere racconti, storia o spiegazioni (sarebbe guida abusiva e
-   contraddirebbe "Tour guide" tra le esclusioni). Su GYG categoria: **Tour**.
-2. **Accessibilità reale**: il cart ha spazio per una sedia a rotelle pieghevole? Gradino
-   basso? Cinture? Scrivere solo ciò che è vero: GYG e i clienti lo verificano.
-3. **Lingue**: caricare solo quelle che l'autista parla davvero.
-4. **ZTL**: Centro Storico (lun–ven 6:30–19, sab 14–19) e Tridente (sempre 7–19).
-   Permesso sulla targa, altrimenti la sosta a Trinità dei Monti / Spagna è da togliere.
-5. **Documenti per GYG**: carta di circolazione (L7e/M1), SCIA, RC, P.IVA, numero
-   d'emergenza.
+- [ ] Numero di emergenza (campo vuoto nel listing)
+- [ ] Capienza omologata del cart → max partecipanti
+- [ ] Prezzo per gruppo (stima di mercato non verificata: €150–250 / 3 h)
+- [ ] Accessibilità reale: gradino basso? spazio per sedia a rotelle pieghevole?
+- [ ] Acqua in bottiglia davvero fornita? Coperture antipioggia?
+- [ ] Colore/logo del cart (da aggiungere alla descrizione del prelievo)
+- [ ] Zona di pickup effettiva (quartieri + mappa GYG)
+- [ ] Permesso ZTL sulla targa (Navona, Pantheon, Trevi sono in ZTL Centro Storico)
+- [ ] Documenti: carta di circolazione L7e/M1, SCIA, RC, P.IVA, scontrino elettronico
+- [ ] Se un giorno si vuole un racconto storico: serve guida abilitata, e il listing va
+      cambiato (oggi "Tour guide" è tra le esclusioni)
 
 ---
 
-## TESTI PER GYG — versione inglese (base per le traduzioni)
+## Campi compilati su GYG
 
-### Titolo
+### Categoria
+**Tour** (non "Esperienza di trasporto": GYG rifiuta i trasferimenti con veicoli standard)
+
+### Titolo (55/60)
 Rome: Easy-Access Private Sightseeing Tour by Golf Cart
 
-Varianti per lingua (prodotti separati):
-- Roma: Tour turístico privado en carrito de golf, en español
-- Rome : visite touristique privée en voiturette de golf, en français
-- Рим: частная обзорная поездка на гольф-каре, на русском
+Alternativa di riserva (54): Rome: Private Golf Cart Sightseeing with Hotel Pickup
 
 ### Descrizione breve (174/200)
 See Rome's icons without the long walks on a private sightseeing tour by golf cart. Every stop is just steps from the cart, with pickup and drop-off anywhere in central Rome.
@@ -63,52 +55,120 @@ Your driver picks you up at your hotel or any address in central Rome. Ride past
 
 Cross the river to the Janiculum Hill for a panoramic view over the city's domes and rooftops. Finish with a photo stop at St. Peter's Square before your driver drops you off wherever you like.
 
-### Highlights (max 80 ciascuno)
+### In evidenza (max 80 ciascuno)
 - See the Colosseum, Pantheon, Trevi Fountain, and St. Peter's in one ride
 - Reach every stop with only a short walk from the golf cart
 - Enjoy a private ride just for your group, at your own pace
 - Get picked up and dropped off at any address in central Rome
 - Take in the panorama over Rome's rooftops from the Janiculum Hill
 
-### Inclusioni
-- Private electric golf cart with driver
-- Pickup and drop-off at any address in central Rome
-- Bottled water
+### Parole chiave (15)
+Visite turistiche, Tour della città, Per gli anziani, Adatto alle famiglie, Scenario,
+Rilassamento, Accessibile, Mobilità ridotta, Tour privato, Golf cart, Colosseo,
+Fontana di Trevi, Pantheon, Punti panoramici, Prelievo in hotel
 
-### Esclusioni
+Evitate: Golf, Tour a piedi, Guide Locali, Natura.
+
+### Incluso
+- Private electric golf cart with English-speaking driver
+- Pickup and drop-off at any address in central Rome
+- Photo stops at each monument
+- Bottled water *(solo se confermato)*
+
+### Escluso
 - Tour guide
 - Entry tickets to monuments
-- Food and drinks other than water
+- Food and drinks
 - Gratuities
 
-### Itinerario (3 ore)
-1. **Pickup**: hotel or any address in central Rome
-2. **Roman Forum**: view from the cart (pass by)
-3. **Colosseum and Arch of Constantine**: photo stop, 15 min
-4. **Circus Maximus and Mouth of Truth**: pass by
-5. **Pantheon**: photo stop, 20 min
-6. **Piazza Navona**: photo stop, 20 min
-7. **Trevi Fountain**: photo stop, 20 min
-8. **Janiculum Hill**: panoramic stop, 15 min
-9. **St. Peter's Square**: photo stop, 10 min
-10. **Drop-off**: any address in central Rome
+### Per chi non è adatta
+Vuoto. Aggiungere "Wheelchair users" solo se il cart non può trasportare carrozzine.
+Mai escludere anziani o mobilità ridotta (è il pubblico target).
 
-### Informazioni importanti
-- Adatto a: persone con mobilità ridotta in grado di salire su un veicolo con un gradino
-  basso *(adattare alla realtà del mezzo)*
-- Sedie a rotelle: solo pieghevoli, riposte sul cart *(solo se vero)*
-- Da portare: documento d'identità
-- Da sapere: tour con qualsiasi tempo, il cart ha copertura. Visite solo esterne.
-  L'ordine delle soste può cambiare per traffico o eventi.
-- Numero d'emergenza: **[obbligatorio, da inserire]**
-- Voucher: "Your driver will meet you at the pickup address you provided at booking."
+### Cosa non è consentito
+Smoking · Luggage or large bags · Alcohol and drugs
 
-### Opzioni (tutte tipo **Privato**)
-| Opzione | Orari | Durata |
+### Animali domestici
+No. Testo: "Pets are not allowed. Assistance dogs are welcome."
+
+### Articoli obbligatori
+Passport or ID card
+
+### Informazioni utili
+This is a sightseeing tour with a driver, not a guided tour. Monuments are seen from the outside only.
+Each stop is a short walk from where the golf cart parks. You can stay seated if you prefer.
+The golf cart is open-sided with a roof. The tour runs in all weather, and rain covers are available.
+The order of stops may change due to traffic, events, or road closures.
+On Wednesday mornings, access to St. Peter's Square may be limited due to the Papal Audience.
+Children must be accompanied by an adult.
+Please provide your full pickup address and a WhatsApp number at booking.
+
+### Contatto di emergenza
+**[DA INSERIRE: numero del cliente, formato +39]**
+
+### Informazioni sul biglietto
+Your driver will pick you up at the address you provided at booking. Please be ready in the lobby or at the entrance 5 minutes before the start time.
+We will contact you on WhatsApp the day before to confirm the pickup details.
+The driver will wait a maximum of 15 minutes after the start time.
+If you cannot find the driver, call the emergency number on this ticket.
+
+(Rimosso il vecchio "Meeting point Piazza del Popolo": pedonale e in contraddizione con il pickup.)
+
+---
+
+## Opzioni
+
+| | Opzione 1 | Opzione 2 |
 |---|---|---|
-| Easy-Access Highlights | 9:30 / 14:30 | 3 h |
-| Easy-Access Highlights – Short | 9:30 / 14:30 | 2 h (senza Gianicolo e San Pietro) |
+| Titolo | 3-Hour Private Golf Cart Tour with Hotel Pickup | 2-Hour Private Golf Cart Tour with Hotel Pickup |
+| Codice | EASY-3H | EASY-2H |
+| Tipo | **Privato** | **Privato** |
+| Durata | 3 h | 2 h |
+| Percorso | completo (10 tappe) | tappe 1–8 (senza Gianicolo e San Pietro) |
+| Inizio | prelievo hotel/indirizzo centro | idem |
+| Lingua autista | inglese | inglese |
+| Max partecipanti | capienza cart (da confermare) | idem |
+| Prezzo | per gruppo (da confermare) | per gruppo (da confermare) |
 
-## Precedente (scartato)
-Il 2026-10-07 era stata proposta una versione a tema acqua ("Follow the Water"). Scartata: il
-cliente vuole un tour highlights.
+Opzioni per lingua (ES/FR/RU): rimandate. Senza guida hanno poco valore distintivo.
+
+### Descrizione del prelievo
+Wait at the main entrance of your hotel or at the address you provided at booking, 5 minutes before the start time.
+Your driver will arrive in an electric golf cart and will message you on WhatsApp when nearby.
+Some streets in central Rome are pedestrian-only or closed to traffic. If your address cannot be reached by vehicle, your driver will send you the exact meeting point at the nearest accessible street, usually within a 2-minute walk.
+Pickup is available from any address within central Rome (Prati, Centro Storico, Trastevere, Monti, Esquilino, Termini area).
+Please keep your phone on and make sure you can receive WhatsApp messages on the day of the tour.
+
+### Programma
+- Nome: **Standard**
+- Inizio: **16/10/2026**, nessuna data di fine
+- Lun–Dom, partenze: **09:00 · 13:30 · 17:00**
+- Eccezioni: 25/12 e 01/01 chiusi (se il cliente non lavora)
+
+### Itinerario (creatore GYG)
+Punto di prelievo: Rome → primo elemento: **Attività** (non trasferimento) → rientro: Rome
+
+| # | Luogo | Tipo | Durata | Ingresso |
+|---|---|---|---|---|
+| 1 | Roman Forum | Pass by | 10 min | no |
+| 2 | Colosseum | Photo stop | 15 min | no |
+| 3 | Arch of Constantine | Pass by | 5 min | no |
+| 4 | Circus Maximus | Pass by | 5 min | no |
+| 5 | Mouth of Truth | Pass by | 5 min | no |
+| 6 | Pantheon | Photo stop (outside) | 20 min | no |
+| 7 | Piazza Navona | Photo stop | 20 min | no |
+| 8 | Trevi Fountain | Photo stop | 20 min | no |
+| 9 | Janiculum Hill | Photo stop | 15 min | no |
+| 10 | St. Peter's Square | Photo stop | 10 min | no |
+
+Nessun trasferimento tra le tappe (GYG calcola gli spostamenti).
+
+---
+
+## Storico decisioni
+
+- 2026-10-06: itinerario su misura NH Collection Giustiniano → Via Cesare Balbo 19 (solo in chat).
+- 2026-10-07: analisi del rifiuto 1507732; proposta tema "Follow the Water" (acquedotti e
+  fontane). **Scartata**: il cliente vuole un tour highlights.
+- 2026-10-09: versione highlights "Easy-Access" con guida e lingue → riformulata come
+  **sightseeing con autista, senza guida**, su richiesta. Compilati tutti i campi GYG.
