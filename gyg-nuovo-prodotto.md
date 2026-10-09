@@ -53,27 +53,19 @@ Varianti per lingua (prodotti separati):
 - Rome : visite touristique privée en voiturette de golf, en français
 - Рим: частная обзорная поездка на гольф-каре, на русском
 
-### Descrizione breve
-See Rome's icons without the long walks on a private sightseeing tour by golf cart. Every stop
-is steps from the cart, with pickup and drop-off anywhere in central Rome.
+### Descrizione breve (174/200)
+See Rome's icons without the long walks on a private sightseeing tour by golf cart. Every stop is just steps from the cart, with pickup and drop-off anywhere in central Rome.
 
-### Descrizione completa
-Rome's highlights are spread across miles of cobblestones, hills, and stairs. This private
-sightseeing tour by golf cart brings them to you. It is designed for travelers who prefer not to walk far,
-including seniors, guests with limited mobility, and families with small children.
+### Descrizione completa (870/3000)
+Rome's highlights are spread across miles of cobblestones, hills, and stairs. This private sightseeing tour by golf cart brings them to you. It's designed for travelers who prefer not to walk far, including seniors, guests with limited mobility, and families with small children.
 
-Your driver picks you up at your hotel or any address in central Rome. Ride past the
-Roman Forum and loop around the Colosseum and the Arch of Constantine, with a photo stop at
-the best viewpoint. Continue past the Circus Maximus and the Mouth of Truth, then head to the
-Pantheon, Piazza Navona, and the Trevi Fountain. Each stop is a short, level walk from where
-the cart parks, and you can always choose to stay seated and enjoy the view.
+Your driver picks you up at your hotel or any address in central Rome. Ride past the Roman Forum and loop around the Colosseum and the Arch of Constantine, with a photo stop at the best viewpoint. Continue past the Circus Maximus and the Mouth of Truth, then head to the Pantheon, Piazza Navona, and the Trevi Fountain. At each stop, the cart parks just a short walk away, and you set the pace.
 
-Cross the river to the Janiculum Hill for a panoramic view over the city's domes, then finish
-with a drive past St. Peter's Square before your driver drops you off wherever you like.
+Cross the river to the Janiculum Hill for a panoramic view over the city's domes and rooftops. Finish with a photo stop at St. Peter's Square before your driver drops you off wherever you like.
 
-### Highlights
-- See the Colosseum, Pantheon, Trevi Fountain, and St. Peter's Square in one ride
-- Visit every stop with only a short, level walk from the golf cart
+### Highlights (max 80 ciascuno)
+- See the Colosseum, Pantheon, Trevi Fountain, and St. Peter's in one ride
+- Reach every stop with only a short walk from the golf cart
 - Enjoy a private ride just for your group, at your own pace
 - Get picked up and dropped off at any address in central Rome
 - Take in the panorama over Rome's rooftops from the Janiculum Hill
